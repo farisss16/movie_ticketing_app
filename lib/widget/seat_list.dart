@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors_in_immutables, non_constant_identifier_names, prefer_const_constructors
+
 import 'package:flutter/material.dart';
 
 class SeatWidget extends StatelessWidget {
